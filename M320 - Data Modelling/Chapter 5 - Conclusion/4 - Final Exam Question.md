@@ -23,3 +23,4 @@ Which one of the following implementations would be the preferred way to represe
 - Only a users collection in which all restaurant information is embedded.
 
 ![](https://university-courses.s3.amazonaws.com/M320/m320-final-one-to-many-4.png)
+
