@@ -35,14 +35,14 @@ If we are not expecting to find any matching documents in the employee_data coll
 }
 ```
 ```
-
 {
   $merge: {
     into: "employee_data",
     whenNotMatched: "fail",
     whenMatched: "replace"
   }
-}```
+}
+```
 ```
 {
   $merge: {
