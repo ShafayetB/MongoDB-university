@@ -71,3 +71,4 @@ Which of the following statement(s) apply to the $facet stage?
 - **The $facet stage allows the application to generate several different facets with one single database request.**
 - The output of the individual $facet sub-pipelines can be shared using the expression $$FACET.$.
 - We can only use facets stages ($sortByCount, $bucket and $bucketAuto) as sub-pipelines of $facet stage.
+
