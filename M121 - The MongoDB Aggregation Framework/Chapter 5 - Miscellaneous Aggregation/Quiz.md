@@ -26,14 +26,14 @@ Consider an Aggregation Pipeline using the new $merge stage that outputs to the 
 If we are not expecting to find any matching documents in the employee_data collection, which of the following stages should we use?
 
 ```
-
 {
   $merge: {
     into: "employee_data",
     whenNotMatched: "insert",
     whenMatched: "merge"
   }
-}```
+}
+```
 ```
 
 {
