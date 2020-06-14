@@ -5,14 +5,14 @@
 Which of the following aggregation pipelines are single facet queries?
 
 ```
-[X]
+
 [
   {"$match": { "$text": {"$search": "network"}}},
   {"$sortByCount": "$offices.city"},
 ]
 ```
 ```
-[X]
+
 [
   {"$unwind": "$offices"},
   {"$project": { "_id": "$name", "hq": "$offices.city"}},
