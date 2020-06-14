@@ -85,7 +85,7 @@ To have the application use the changes that you implemented for this ticket, ma
 
 After passing the relevant tests, what is the validation code for **Connection?**
 <details> 
-  <<summary>Click here for the solution</summary>
+  <summary>Click here for the solution</summary>
    Answer: 5a9026003a466d5ac6497a9d
 </details>
 
