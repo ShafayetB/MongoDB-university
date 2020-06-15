@@ -269,3 +269,7 @@ Which of the following statements are true with respect to changing authenticati
 - [x] **MONGODB-CR will be disabled after the migration.**
 - [x] **SCRAM-SHA-1 is more secure that MONGODB-CR.**
 - [x] **On 3.0 before importing 2.6 user data new users are created with SCRAM-SHA-1.**
+
+
+
+
