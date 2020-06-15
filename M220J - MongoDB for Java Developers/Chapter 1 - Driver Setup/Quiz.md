@@ -55,7 +55,7 @@ Select the true statements below
 
 
 
-- Filters and Projections are the only available Builders classes.
+- [ ] Filters and Projections are the only available Builders classes.
 - [x] **You can combine Filters to compose robust queries.**
 - [x] **Projections offers a convenience method, excludeId(), to remove the _id field in a projection.**
 - [ ] Filters and Projections do not offer full query and projection functionality.
