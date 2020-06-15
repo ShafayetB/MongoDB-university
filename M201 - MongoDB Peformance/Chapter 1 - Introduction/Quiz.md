@@ -8,7 +8,7 @@ Which of the following statements is/are true?
 
 - [ ] Quizzes and labs each make up 50% of your final grade in the class.
 - [ ] The content of this course is more geared for DBAs than developers.
-- [x] Indexes will be a major topic covered in this course.
+- [x] **Indexes will be a major topic covered in this course.**
 - [ ] This course will take a deep dive into how different types of computer hardware can be used to improve database performance.
 
 ## Hardware Considerations & Configurations Part 2
@@ -18,9 +18,9 @@ Which of the following statements is/are true?
 Regarding the performance implications, which of the following statements are correct?
 
 - [ ] MongoDB does not benefit from adding more RAM to your servers.
-- [x] Disk RAID architecture can impact the performance of your MongoDB deployment.
+- [x] **Disk RAID architecture can impact the performance of your MongoDB deployment.**
 - [ ] Switching from HDDs to SSDs does not bring a benefit to the performance of MongoDB.
-- [x] CPU availability impacts the performance of MongoDB, especially if using the WiredTiger storage engine.
+- [x] **CPU availability impacts the performance of MongoDB, especially if using the WiredTiger storage engine.**
 
 ## M201 Overview
 
