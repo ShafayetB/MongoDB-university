@@ -22,13 +22,14 @@ Which of the following createRole parameters are valid when executed on the prod
   roles:[]
 }
 ```
-[X]
+```
 {
   role: "senior-engineer",
   privileges: [],
   roles: [ "dbAdmin" ]
 }
 ```
+
 ```
 {
   role: "team-lead",
