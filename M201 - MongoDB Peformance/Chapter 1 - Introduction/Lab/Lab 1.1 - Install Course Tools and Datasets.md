@@ -19,5 +19,5 @@ To confirm that you've successfully completed these steps run the following quer
 ```
 <details>
   <summary>Click here for the solution</summary>
-    50474
+    Answer: 50474
 </details>
