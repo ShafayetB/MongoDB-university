@@ -65,3 +65,4 @@ Which of the following is true about deleting documents using the MongoDB Java D
 - [x] **DeleteResult objects contain the number of deleted documents.**
 - [ ] deleteOne will not return a DeleteResult object.
 - [x] **deleteOne can only delete one document.**
+
