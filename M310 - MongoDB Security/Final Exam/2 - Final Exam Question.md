@@ -14,9 +14,9 @@ Certificate:
         Version: 3 (0x2)
 ```
 
-<details>
-  <summary>Click here for the solution</summary>
-    Answer: ```
+**Answer**
+
+```
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -93,5 +93,4 @@ AQABkNzgKwRdnvC6Zu7P22Pu3Ja6bjzT5nQbFxEcmKAbl9FUpD2pmRRcsiKXVluq
 jATINGj3CfDpDWeNm6LjN7Sa
 -----END CERTIFICATE-----
 ```
-</details>
 
