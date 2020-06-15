@@ -1,7 +1,8 @@
 # MongoDB University
 
 🔶 Solutions for the [MongoDB University](https://university.mongodb.com/)'s courses
-• This course set offered by MongoDB University
+<br/>
+This course set offered by MongoDB University
 ## Courses
 
 - [M001: MongoDB Basics](https://github.com/ShafayetB/MongoDB-University/tree/master/M001%20-%20MongoDB%20Basics)
