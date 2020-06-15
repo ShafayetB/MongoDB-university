@@ -24,3 +24,4 @@ $ ./validate-hw-1.4.sh
   <summary>Click here for the solution</summary>
     Answer: [ "SCRAM-SHA-1" ]
 </details>
+
