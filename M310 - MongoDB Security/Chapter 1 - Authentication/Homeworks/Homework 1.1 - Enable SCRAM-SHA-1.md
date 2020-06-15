@@ -24,9 +24,9 @@ For this exercise we want you to perform the following set of tasks:
 
 Which of the following statements will successfully run the above command on the standalone server that you've set up?
 
-- mongo -u alice -p secret --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})" --authenticationDatabase admin
-- **mongo -u alice -p secret --eval "db=db.getSisterDB('admin');db.runCommand({getParameter: 1, authenticationMechanisms: 1})" --authenticationDatabase admin**
-- mongo -u alice -p secret --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})"
-- mongo --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})"
-- **mongo admin -u alice -p secret --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})"**
-- **mongo admin --eval "db.auth('alice', 'secret');db.runCommand({getParameter: 1, authenticationMechanisms: 1})"**
+- [ ] mongo -u alice -p secret --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})" --authenticationDatabase admin
+- [x] **mongo -u alice -p secret --eval "db=db.getSisterDB('admin');db.runCommand({getParameter: 1, authenticationMechanisms: 1})" --authenticationDatabase admin**
+- [ ] mongo -u alice -p secret --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})"
+- [ ] mongo --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})"
+- [x] **mongo admin -u alice -p secret --eval "db.runCommand({getParameter: 1, authenticationMechanisms: 1})"**
+- [x] **mongo admin --eval "db.auth('alice', 'secret');db.runCommand({getParameter: 1, authenticationMechanisms: 1})"**
