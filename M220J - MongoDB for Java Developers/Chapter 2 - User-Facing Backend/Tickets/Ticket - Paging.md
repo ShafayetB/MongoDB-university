@@ -1,5 +1,4 @@
-Ticket: Paging
-==============
+# Ticket: Paging
 
 **Problem:**
 
