@@ -22,3 +22,4 @@ Which of the following is true about bulk writes?
 - [x] **Bulk writes decrease the effect of latency on overall operation time.**
 - [x] **By default, bulk writes are ordered.**
 - [ ] The server will send one acknowledgement for each write in a bulk operation.
+
