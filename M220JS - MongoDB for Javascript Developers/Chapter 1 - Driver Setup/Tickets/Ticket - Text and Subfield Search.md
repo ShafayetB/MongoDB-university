@@ -22,6 +22,7 @@ A text index was created for you when you restored the collections with mongores
 **Hint**
 
 Check the implementation of similar formats of search criteria - the genres query should be similar.
+
 ---
 
 **MFlix Functionality**
