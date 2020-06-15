@@ -1,5 +1,5 @@
-Ticket: Faceted Search
-======================
+# Ticket: Faceted Search
+
 
 **Problem:**
 
