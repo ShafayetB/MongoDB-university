@@ -9,6 +9,7 @@
 - [M121: The MongoDB Aggregation Framework](https://github.com/ShafayetB/MongoDB-university/tree/master/M121%20-%20The%20MongoDB%20Aggregation%20Framework)
 - [M201: MongoDB Performance](https://github.com/ShafayetB/MongoDB-university/tree/master/M201%20-%20MongoDB%20Peformance)
 - [M220J: MongoDB for Java Developers](https://github.com/ShafayetB/MongoDB-university/tree/master/M220J%20-%20MongoDB%20for%20Java%20Developers)
+- [M310: MongoDB Security](https://github.com/ShafayetB/MongoDB-university/tree/master/M310%20-%20MongoDB%20Security)
 - [M320: Data Modeling](https://github.com/ShafayetB/MongoDB-University/tree/master/M320%20-%20Data%20Modelling)
 
 This course set offered by MongoDB University
