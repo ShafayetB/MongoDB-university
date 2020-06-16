@@ -1,6 +1,6 @@
 # MongoDB University
 
-🔶 Solutions for the [MongoDB University](https://university.mongodb.com/)'s courses
+🔶 Solutions for the [MongoDB University](https://university.mongodb.com/) courses
 
 ## Courses
 
