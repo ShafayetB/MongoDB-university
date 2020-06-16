@@ -1,0 +1,35 @@
+# Quiz
+
+## Connection Pooling
+
+Which of the following are benefits of connection pooling?
+
+
+
+- [ ] The connection pool will persist after the client is terminated.
+- [x] **New operations can be serviced with pre-existing connections, so a new connection doesn't have to be created each time.**
+- [x] **A large influx of operations can be handled more quickly with a pool of existing connections.**
+- [ ] Multiple database clients can share a connection pool.
+
+## Robust Client Configuration
+
+When should you set a wtimeout?
+
+
+
+- [ ] When our application is using a connection pool of 100 or more connections.
+- [x] **When our application is using a Write Concern more durable than w: 1.**
+- [ ] When our application is issuing bulk operations in large batches.
+- [ ] When our application is using a Read Concern more durable than "available".
+
+## Change Streams
+
+What of the following is true about Change Streams in Pymongo?
+
+
+
+- [x] **They output cursors, which contain change event documents.**
+- [ ] They can stay open for up to 10 minutes.
+- [x] **They can be used to log changes to a MongoDB collection.**
+- [ ] They will not log changes associated with insert operations.
+- [x] **They accept pipelines, which can be used to filter output from the change stream.**
