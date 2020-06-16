@@ -16,6 +16,5 @@ The variable representing our client, mc, will:
 
 - [x] **automatically retry writes that fail.**
 - [ ] allow a maximum of 50 connections in the connection pool.
-- [x] **use SSL when connecting to MongoDB.**
 - [ ] authenticate against the test database.
 - [x] **wait at most 50 milliseconds for timing out a connection.**
